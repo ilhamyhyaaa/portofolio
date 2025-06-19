@@ -6,7 +6,7 @@
         "partner": "Clean Water Initiative",
         "role": "Lead Engineer",
         "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project1.png",
+        "image": "images/project1.jpeg",
         "link": "https://example.com/solar-water"
     },
     {
@@ -15,7 +15,7 @@
         "partner": "Tech Manufacturing Inc.",
         "role": "Project Lead",
         "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
-        "image": "images/project2.png",
+        "image": "images/project2.jpeg",
         "link": "https://example.com/assembly-optimization"
     },
 	{
@@ -24,7 +24,7 @@
         "partner": "Tech Manufacturing Inc.",
         "role": "Project Lead",
         "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
-        "image": "images/project3.png",
+        "image": "images/project3.jpeg",
         "link": "https://example.com/assembly-optimization"
     }
 ]
