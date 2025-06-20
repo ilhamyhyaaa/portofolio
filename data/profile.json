@@ -24,9 +24,9 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Editing", "icon": "fas fa-microchip", "level": 80},
+        {"name": "Editing", "icon": "fas fa-align-justify", "level": 80},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
-        {"name": "Software Design", "icon": "fas fa-desktop", "level": 90},
+        {"name": "Software Design", "icon": "fas fa-database", "level": 90},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
         {"name": "Web Programming", "icon": "fab fa-js", "level": 70},
 	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 80}
